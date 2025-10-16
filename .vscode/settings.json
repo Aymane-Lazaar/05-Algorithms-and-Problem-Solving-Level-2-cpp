@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "ostream": "cpp",
+        "ctime": "cpp",
+        "cstdlib": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "compare": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "xmemory": "cpp",
+        "xtr1common": "cpp",
+        "xutility": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
